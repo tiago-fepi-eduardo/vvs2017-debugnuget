@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Configurations>Debug;Release;DebugNuget</Configurations>
+  </PropertyGroup>
+
+  <Choose>
+    <When Condition="'$(Configuration)|$(Platform)' == 'DebugNuget|AnyCPU'">
+      <ItemGroup>
+        <ProjectReference Include="..\..\ProjectNuget\NugetLab01\NugetLab01.csproj" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <PackageReference Include="NugetLab01" Version="1.0.4" />
+      </ItemGroup>
+    </Otherwise>
+  </Choose>  
+</Project>

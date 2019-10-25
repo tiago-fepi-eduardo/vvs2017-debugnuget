@@ -1,0 +1,14 @@
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.csproj.CoreCompileInputs.cache
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.AssemblyInfoInputs.cache
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.AssemblyInfo.cs
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.csprojAssemblyReference.cache
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\ConsoleLab.deps.json
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\ConsoleLab.runtimeconfig.json
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\ConsoleLab.runtimeconfig.dev.json
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\ConsoleLab.dll
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\ConsoleLab.pdb
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\NugetLab01.dll
+E:\NugetLab\ProjectBase\ConsoleLab\bin\DebugNuget\netcoreapp2.2\NugetLab01.pdb
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.csproj.CopyComplete
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.dll
+E:\NugetLab\ProjectBase\ConsoleLab\obj\DebugNuget\netcoreapp2.2\ConsoleLab.pdb

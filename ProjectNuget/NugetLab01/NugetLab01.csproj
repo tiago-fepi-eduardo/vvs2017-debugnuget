@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>NugetLab</Product>
+    <Company>Nuget Lab LTDA</Company>
+    <Description>Lab to develop a way to debug nuget.</Description>
+    <Authors>Tiago Eduardo</Authors>
+    <Version>1.0.4</Version>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+</Project>

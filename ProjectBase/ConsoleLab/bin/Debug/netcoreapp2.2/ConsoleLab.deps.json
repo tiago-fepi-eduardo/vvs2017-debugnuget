@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "2d684479572ae1e436f658aa0ae5144db08322ee"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ConsoleLab/1.0.0": {
+        "dependencies": {
+          "NugetLab01": "1.0.4"
+        },
+        "runtime": {
+          "ConsoleLab.dll": {}
+        }
+      },
+      "NugetLab01/1.0.4": {
+        "runtime": {
+          "lib/netcoreapp2.2/NugetLab01.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NugetLab01/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kWf4/+/AecKoDGi4qI2cTLMGdKOQ0GqvVfftJa/ERHqh6ZMi9BF825HJe/nszPI7gFdyGXnDo479jPo3YY0M1Q==",
+      "path": "nugetlab01/1.0.4",
+      "hashPath": "nugetlab01.1.0.4.nupkg.sha512"
+    }
+  }
+}
